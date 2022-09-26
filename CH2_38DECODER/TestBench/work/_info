@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vCH2_38DECODER
+Z1 !s100 V`ghHUL5oL[CT]GCIQn7O1
+Z2 IU?3FPdhoai?a;8JYgjF=k1
+Z3 VEDFcPW<``j9QgPWU1[>L40
+Z4 dD:\university\work\CH2_38DECODER\TestBench
+Z5 w1663491218
+Z6 8D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER.v
+Z7 FD:/university/work/CH2_38DECODER/RTL/CH2_38DECODER.v
+L0 3
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER.v|
+Z10 o-work work -O0
+Z11 n@c@h2_38@d@e@c@o@d@e@r
+!i10b 1
+!s85 0
+Z12 !s108 1663494069.624000
+Z13 !s107 D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER.v|
+!s101 -O0
+vTestBench
+!i10b 1
+Z14 !s100 CodVW4oboDd38B33WMz?i0
+Z15 IRBH053ZoKNWm0DZmN3jg[3
+Z16 VH;VS]59WmQ>4a<zRibM9Z0
+R4
+Z17 w1663490937
+Z18 8D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER_TB.V
+Z19 FD:/university/work/CH2_38DECODER/RTL/CH2_38DECODER_TB.V
+L0 5
+R8
+r1
+!s85 0
+31
+!s108 1663494069.660000
+!s107 D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER_TB.V|
+Z20 !s90 -reportprogress|300|-work|work|D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER_TB.V|
+!s101 -O0
+R10
+Z21 n@test@bench

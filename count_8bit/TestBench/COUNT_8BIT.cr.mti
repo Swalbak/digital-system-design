@@ -1,0 +1,15 @@
+D:/work/count_8bit/RTL/COUNT_8BIT.v {1 {vlog -work work D:/work/count_8bit/RTL/COUNT_8BIT.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module COUNT_8BIT
+
+Top level modules:
+	COUNT_8BIT
+
+} {} {}} D:/work/count_8bit/RTL/COUNT_8BIT_TB.V {1 {vlog -work work D:/work/count_8bit/RTL/COUNT_8BIT_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module COUNT_8BIT_TB
+
+Top level modules:
+	COUNT_8BIT_TB
+
+} {} {}}

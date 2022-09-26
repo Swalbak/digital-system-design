@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\university\work\CH2_F_SEP2
+vCH2_F_SEP
+Z1 I=Ll8D;WlE8fYgNBTSX5jV0
+Z2 V?nnnSd>0<Dn:enJ:8MQ6C0
+Z3 dD:\university\CH2_F_SEP\TestBench
+Z4 w1664199276
+Z5 8D:/university/CH2_F_SEP/RTL/CH2_F_SEP.v
+Z6 FD:/university/CH2_F_SEP/RTL/CH2_F_SEP.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@c@h2_@f_@s@e@p
+!i10b 1
+Z10 !s100 oG<AA7`@0M6Qi13ILPHeX0
+!s85 0
+Z11 !s108 1664199501.041000
+Z12 !s107 D:/university/CH2_F_SEP/RTL/CH2_F_SEP.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/university/CH2_F_SEP/RTL/CH2_F_SEP.v|
+!s101 -O0
+vCH2_F_SEP_TB
+!i10b 1
+!s100 2h@n2f@Fo<^hiNQnh8Rkl0
+INI_=bfCHk4E7hCK[g`6YE0
+Vz76@VA^kGkM:[9A[41U4W1
+R3
+w1664199414
+8D:/university/CH2_F_SEP/RTL/CH2_F_SEP_TB.V
+FD:/university/CH2_F_SEP/RTL/CH2_F_SEP_TB.V
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1664199501.075000
+!s107 D:/university/CH2_F_SEP/RTL/CH2_F_SEP_TB.V|
+!s90 -reportprogress|300|-work|work|D:/university/CH2_F_SEP/RTL/CH2_F_SEP_TB.V|
+!s101 -O0
+R8
+n@c@h2_@f_@s@e@p_@t@b

@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\university\work\CH2_83ENCODER\TestBench
+vCH2_2MUX
+Z1 I^GRfdYNQB;AT_RCM<hKCd1
+Z2 V0G=WEBV[HMj_JnXDS_Ja^0
+Z3 dD:\university\work\CH2_2MUX\TestBench
+Z4 w1663495804
+Z5 8D:/university/work/CH2_2MUX/RTL/CH2_2MUX.v
+Z6 FD:/university/work/CH2_2MUX/RTL/CH2_2MUX.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work CH2_2MUX -O0
+Z9 n@c@h2_2@m@u@x
+!i10b 1
+Z10 !s100 R97MUM7A=aU7bW[;68UdH0
+!s85 0
+Z11 !s108 1663496320.058000
+Z12 !s107 D:/university/work/CH2_2MUX/RTL/CH2_2MUX.v|
+Z13 !s90 -reportprogress|300|-work|CH2_2MUX|D:/university/work/CH2_2MUX/RTL/CH2_2MUX.v|
+!s101 -O0
+vCH2_2MUX_TB
+!i10b 1
+!s100 O?khg53SM_kFzYo8ZcU>J3
+IP=O_YMlXMbK5_V=an;`H42
+V4`DMKFVZSdno7@j1NEEk11
+R3
+w1663496140
+8D:/university/work/CH2_2MUX/RTL/CH2_2MUX_TB.V
+FD:/university/work/CH2_2MUX/RTL/CH2_2MUX_TB.V
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1663496320.092000
+!s107 D:/university/work/CH2_2MUX/RTL/CH2_2MUX_TB.V|
+!s90 -reportprogress|300|-work|CH2_2MUX|D:/university/work/CH2_2MUX/RTL/CH2_2MUX_TB.V|
+!s101 -O0
+R8
+n@c@h2_2@m@u@x_@t@b

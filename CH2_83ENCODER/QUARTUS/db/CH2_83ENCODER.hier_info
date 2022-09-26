@@ -1,0 +1,14 @@
+|CH2_83ENCODER
+A[0] => Decoder0.IN7
+A[1] => Decoder0.IN6
+A[2] => Decoder0.IN5
+A[3] => Decoder0.IN4
+A[4] => Decoder0.IN3
+A[5] => Decoder0.IN2
+A[6] => Decoder0.IN1
+A[7] => Decoder0.IN0
+O[0] <= WideOr2.DB_MAX_OUTPUT_PORT_TYPE
+O[1] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+O[2] <= WideOr0.DB_MAX_OUTPUT_PORT_TYPE
+
+

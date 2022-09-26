@@ -1,0 +1,15 @@
+D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER.v {1 {vlog -work work D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_38DECODER
+
+Top level modules:
+	CH2_38DECODER
+
+} {} {}} D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER_TB.V {1 {vlog -work work D:/university/work/CH2_38DECODER/RTL/CH2_38DECODER_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}}

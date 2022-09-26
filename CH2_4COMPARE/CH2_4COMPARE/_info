@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\university\work\CH2_4COMPARE
+vCH2_4COMPARE
+Z1 Ic`>blzoYYT>HZ2N^b=;cf1
+Z2 V=bTnO<__lT`2WkhzF6RTe1
+Z3 dD:\university\work\CH2_4COMPARE
+Z4 w1663500169
+Z5 8D:/university/work/CH2_4COMPARE/CH2_4COMPARE.v
+Z6 FD:/university/work/CH2_4COMPARE/CH2_4COMPARE.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work CH2_4COMPARE -O0
+Z9 n@c@h2_4@c@o@m@p@a@r@e
+!i10b 1
+Z10 !s100 ZYez6<8c3^?_GoQRm1M9C3
+!s85 0
+Z11 !s108 1663500652.581000
+Z12 !s107 D:/university/work/CH2_4COMPARE/CH2_4COMPARE.v|
+Z13 !s90 -reportprogress|300|-work|CH2_4COMPARE|D:/university/work/CH2_4COMPARE/CH2_4COMPARE.v|
+!s101 -O0
+vCH2_4COMPARE_TB
+!i10b 1
+!s100 >gNh=M?dZRGCLCX0Yl9ld3
+IM`CCmOEI6zOeD^dm>TlUc2
+VR`ngUM<WFPh;hMic[ihkz1
+R3
+w1663500584
+8D:/university/work/CH2_4COMPARE/CH2_4COMPARE_TB.v
+FD:/university/work/CH2_4COMPARE/CH2_4COMPARE_TB.v
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1663500652.617000
+!s107 D:/university/work/CH2_4COMPARE/CH2_4COMPARE_TB.v|
+!s90 -reportprogress|300|-work|CH2_4COMPARE|D:/university/work/CH2_4COMPARE/CH2_4COMPARE_TB.v|
+!s101 -O0
+R8
+n@c@h2_4@c@o@m@p@a@r@e_@t@b

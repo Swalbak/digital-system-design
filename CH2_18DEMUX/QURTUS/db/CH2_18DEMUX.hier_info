@@ -1,0 +1,43 @@
+|CH2_18DEMUX
+I => O.DATAB
+I => O.DATAB
+I => O.DATAB
+I => O.DATAB
+I => O.DATAB
+I => O.DATAB
+I => O.DATAB
+I => O.DATAB
+S[0] => Equal0.IN2
+S[0] => Equal1.IN0
+S[0] => Equal2.IN2
+S[0] => Equal3.IN1
+S[0] => Equal4.IN2
+S[0] => Equal5.IN1
+S[0] => Equal6.IN2
+S[0] => Equal7.IN2
+S[1] => Equal0.IN1
+S[1] => Equal1.IN2
+S[1] => Equal2.IN0
+S[1] => Equal3.IN0
+S[1] => Equal4.IN1
+S[1] => Equal5.IN2
+S[1] => Equal6.IN1
+S[1] => Equal7.IN1
+S[2] => Equal0.IN0
+S[2] => Equal1.IN1
+S[2] => Equal2.IN1
+S[2] => Equal3.IN2
+S[2] => Equal4.IN0
+S[2] => Equal5.IN0
+S[2] => Equal6.IN0
+S[2] => Equal7.IN0
+O[0] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[1] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[2] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[3] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[4] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[5] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[6] <= O.DB_MAX_OUTPUT_PORT_TYPE
+O[7] <= O.DB_MAX_OUTPUT_PORT_TYPE
+
+

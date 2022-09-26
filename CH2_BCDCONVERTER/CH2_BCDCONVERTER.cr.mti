@@ -1,0 +1,15 @@
+D:/university/work/CH2_BCDCONVERTER/RTL/CH2_BCDCONVERTER.v {1 {vlog -work CH2_BCDCONVERTER D:/university/work/CH2_BCDCONVERTER/RTL/CH2_BCDCONVERTER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_BCDCONVERTER
+
+Top level modules:
+	CH2_BCDCONVERTER
+
+} {} {}} D:/university/work/CH2_BCDCONVERTER/RTL/CH2_BCDCONVERTER_TB.V {1 {vlog -work CH2_BCDCONVERTER D:/university/work/CH2_BCDCONVERTER/RTL/CH2_BCDCONVERTER_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_BCDCONVERTER_TB
+
+Top level modules:
+	CH2_BCDCONVERTER_TB
+
+} {} {}}

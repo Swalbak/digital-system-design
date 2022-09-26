@@ -1,0 +1,10 @@
+|CH2_SEG_DECODER
+a <= <VCC>
+b <= <VCC>
+c <= <VCC>
+d <= <VCC>
+e <= <GND>
+f <= <VCC>
+g <= <GND>
+
+

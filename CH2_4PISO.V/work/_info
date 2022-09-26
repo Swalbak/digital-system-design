@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\university\work\CH2_F_SEP\TestBench
+vCH2_4PISO
+Z1 IN7ZYQ^Z_KPh^SFRF;`]S01
+Z2 VdJN<N3VEiCC_^3j9YHZ8b2
+Z3 dD:\university\work\CH2_4PISO.V
+Z4 w1664112552
+Z5 8D:/university/work/CH2_4PISO.V/RTL/CH2_4PISO.v
+Z6 FD:/university/work/CH2_4PISO.V/RTL/CH2_4PISO.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@c@h2_4@p@i@s@o
+!i10b 1
+Z10 !s100 7>m9FdkeNH[gala`?a=]32
+!s85 0
+Z11 !s108 1664196947.146000
+Z12 !s107 D:/university/work/CH2_4PISO.V/RTL/CH2_4PISO.v|
+Z13 !s90 -reportprogress|300|-work|work|D:/university/work/CH2_4PISO.V/RTL/CH2_4PISO.v|
+!s101 -O0
+vCH2_4PISO_TB
+!i10b 1
+!s100 <^5DH[o=Bgff8bXZDhFJ51
+IB?kXf3:_2MGIbfgO:@7<V3
+VIKzPR]_B:@m3U99eZAV8I3
+R3
+w1664112802
+8D:/university/work/CH2_4PISO.V/RTL/CH2_4PISO_TB.V
+FD:/university/work/CH2_4PISO.V/RTL/CH2_4PISO_TB.V
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1664196947.186000
+!s107 D:/university/work/CH2_4PISO.V/RTL/CH2_4PISO_TB.V|
+!s90 -reportprogress|300|-work|work|D:/university/work/CH2_4PISO.V/RTL/CH2_4PISO_TB.V|
+!s101 -O0
+R8
+n@c@h2_4@p@i@s@o_@t@b

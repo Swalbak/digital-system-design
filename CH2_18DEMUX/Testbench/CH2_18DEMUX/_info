@@ -1,0 +1,45 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\university\work\CH2_4MUX\TestBench
+vCH2_18DEMUX
+Z1 Ia5>3=DT[=c3Fm5`@c]o[^0
+Z2 V_lb;Y0l4NWZz81a9`dTkA1
+Z3 dD:\university\work\CH2_18DEMUX\Testbench
+Z4 w1663499753
+Z5 8D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX.v
+Z6 FD:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX.v
+L0 3
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -reportprogress|300|-work|CH2_18DEMUX|D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX.v|
+Z9 o-work CH2_18DEMUX -O0
+Z10 n@c@h2_18@d@e@m@u@x
+!i10b 1
+Z11 !s100 TM9XiEWDiIVEKC7EG:FOC1
+!s85 0
+Z12 !s108 1663499820.072000
+Z13 !s107 D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX.v|
+!s101 -O0
+vch2_18DEMUX_TB
+!i10b 1
+Z14 !s100 mbk`DJUcDZfOF]oa251W20
+Z15 I8enn1L=W0Al7:Pz<1[U_>2
+Z16 Vd3:kKVWnCOfJQL0aF_iBQ2
+R3
+w1663499752
+Z17 8D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX_TB.V
+Z18 FD:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX_TB.V
+L0 5
+R7
+r1
+!s85 0
+31
+!s108 1663499820.106000
+!s107 D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX_TB.V|
+Z19 !s90 -reportprogress|300|-work|CH2_18DEMUX|D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX_TB.V|
+!s101 -O0
+R9
+Z20 nch2_18@d@e@m@u@x_@t@b

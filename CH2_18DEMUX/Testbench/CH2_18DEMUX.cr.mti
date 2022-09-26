@@ -1,0 +1,15 @@
+D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX.v {1 {vlog -work CH2_18DEMUX D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_18DEMUX
+
+Top level modules:
+	CH2_18DEMUX
+
+} {} {}} D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX_TB.V {1 {vlog -work CH2_18DEMUX D:/university/work/CH2_18DEMUX/RTL/CH2_18DEMUX_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ch2_18DEMUX_TB
+
+Top level modules:
+	ch2_18DEMUX_TB
+
+} {} {}}

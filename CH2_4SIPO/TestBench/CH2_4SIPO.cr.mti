@@ -1,0 +1,15 @@
+D:/university/work/CH2_4SIPO/RTL/CH2_4SIPO.v {1 {vlog -work work D:/university/work/CH2_4SIPO/RTL/CH2_4SIPO.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_4SIPO
+
+Top level modules:
+	CH2_4SIPO
+
+} {} {}} D:/university/work/CH2_4SIPO/RTL/CH2_4SIPO_TB.V {1 {vlog -work work D:/university/work/CH2_4SIPO/RTL/CH2_4SIPO_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_4SIPO_TB
+
+Top level modules:
+	CH2_4SIPO_TB
+
+} {} {}}

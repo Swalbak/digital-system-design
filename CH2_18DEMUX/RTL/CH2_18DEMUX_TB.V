@@ -1,0 +1,40 @@
+//CH2_18DEMUX_TB.V
+
+`timescale 10ns/1ps
+
+module ch2_18DEMUX_TB;
+
+//input
+reg I;
+reg [2:0]S;
+
+//output
+wire [7:0]O;
+
+//Instantiate the U1
+CH2_18DEMUX U1(
+	I, S,
+	O
+	);
+
+//Specify input stimulus
+initial begin
+	S <= 3'b000;
+	#10 S <= 3'b001;
+	#10 S <= 3'b010;
+	#10 S <= 3'b011;
+	#10 S <= 3'b100;
+	#10 S <= 3'b101;
+	#10 S <= 3'b110;
+	#10 S <= 3'b111;
+
+end
+
+always begin
+	I = 1;
+	#1;
+	I = 0;
+	#1;
+end
+
+endmodule

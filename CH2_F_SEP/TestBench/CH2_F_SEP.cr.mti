@@ -1,0 +1,15 @@
+D:/university/CH2_F_SEP/RTL/CH2_F_SEP.v {1 {vlog -work work D:/university/CH2_F_SEP/RTL/CH2_F_SEP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_F_SEP
+
+Top level modules:
+	CH2_F_SEP
+
+} {} {}} D:/university/CH2_F_SEP/RTL/CH2_F_SEP_TB.V {1 {vlog -work work D:/university/CH2_F_SEP/RTL/CH2_F_SEP_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_F_SEP_TB
+
+Top level modules:
+	CH2_F_SEP_TB
+
+} {} {}}

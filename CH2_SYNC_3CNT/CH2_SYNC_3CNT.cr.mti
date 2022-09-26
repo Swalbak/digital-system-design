@@ -1,0 +1,15 @@
+D:/university/work/CH2_SYNC_3CNT/RTL/CH2_SYNC_3CNT2.v {1 {vlog -work work D:/university/work/CH2_SYNC_3CNT/RTL/CH2_SYNC_3CNT2.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_SYNC_3CNT2
+
+Top level modules:
+	CH2_SYNC_3CNT2
+
+} {} {}} D:/university/work/CH2_SYNC_3CNT/RTL/CH2_SYNC_3CNT2_TB.V {1 {vlog -work work D:/university/work/CH2_SYNC_3CNT/RTL/CH2_SYNC_3CNT2_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_SYNC_3CNT2_TB
+
+Top level modules:
+	CH2_SYNC_3CNT2_TB
+
+} {} {}}

@@ -1,0 +1,15 @@
+D:/university/work/CH2_83ENCODER/RTL/CH2_83ENCODER.v {1 {vlog -work work D:/university/work/CH2_83ENCODER/RTL/CH2_83ENCODER.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_83ENCODER
+
+Top level modules:
+	CH2_83ENCODER
+
+} {} {}} D:/university/work/CH2_83ENCODER/RTL/CH2_83ENCODER_TB.V {1 {vlog -work work D:/university/work/CH2_83ENCODER/RTL/CH2_83ENCODER_TB.V
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CH2_83ENCODER_TB
+
+Top level modules:
+	CH2_83ENCODER_TB
+
+} {} {}}
