@@ -1,5 +1,5 @@
 Assembler report for CH2_F_SEP
-Mon Sep 26 22:37:10 2022
+Tue Sep 27 09:38:26 2022
 Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
@@ -10,8 +10,8 @@ Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edit
   2. Assembler Summary
   3. Assembler Settings
   4. Assembler Generated Files
-  5. Assembler Device Options: D:/university/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.sof
-  6. Assembler Device Options: D:/university/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.pof
+  5. Assembler Device Options: D:/university/work/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.sof
+  6. Assembler Device Options: D:/university/work/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.pof
   7. Assembler Messages
 
 
@@ -38,7 +38,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Mon Sep 26 22:37:10 2022 ;
+; Assembler Status      ; Successful - Tue Sep 27 09:38:26 2022 ;
 ; Revision Name         ; CH2_F_SEP                             ;
 ; Top-level Entity Name ; CH2_F_SEP                             ;
 ; Family                ; Cyclone II                            ;
@@ -78,37 +78,37 @@ applicable agreement for further details.
 +-----------------------------------------------------------------------------+----------+---------------+
 
 
-+------------------------------------------------------------+
-; Assembler Generated Files                                  ;
-+------------------------------------------------------------+
-; File Name                                                  ;
-+------------------------------------------------------------+
-; D:/university/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.sof ;
-; D:/university/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.pof ;
-+------------------------------------------------------------+
++-----------------------------------------------------------------+
+; Assembler Generated Files                                       ;
++-----------------------------------------------------------------+
+; File Name                                                       ;
++-----------------------------------------------------------------+
+; D:/university/work/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.sof ;
+; D:/university/work/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.pof ;
++-----------------------------------------------------------------+
 
 
-+--------------------------------------------------------------------------------------+
-; Assembler Device Options: D:/university/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.sof ;
-+----------------+---------------------------------------------------------------------+
-; Option         ; Setting                                                             ;
-+----------------+---------------------------------------------------------------------+
-; Device         ; EP2C70F672C8                                                        ;
-; JTAG usercode  ; 0x006066A8                                                          ;
-; Checksum       ; 0x006066A8                                                          ;
-+----------------+---------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------+
+; Assembler Device Options: D:/university/work/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.sof ;
++----------------+--------------------------------------------------------------------------+
+; Option         ; Setting                                                                  ;
++----------------+--------------------------------------------------------------------------+
+; Device         ; EP2C70F672C8                                                             ;
+; JTAG usercode  ; 0x006068F7                                                               ;
+; Checksum       ; 0x006068F7                                                               ;
++----------------+--------------------------------------------------------------------------+
 
 
-+--------------------------------------------------------------------------------------+
-; Assembler Device Options: D:/university/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.pof ;
-+--------------------+-----------------------------------------------------------------+
-; Option             ; Setting                                                         ;
-+--------------------+-----------------------------------------------------------------+
-; Device             ; EPCS16                                                          ;
-; JTAG usercode      ; 0x00000000                                                      ;
-; Checksum           ; 0x187FE264                                                      ;
-; Compression Ratio  ; 3                                                               ;
-+--------------------+-----------------------------------------------------------------+
++-------------------------------------------------------------------------------------------+
+; Assembler Device Options: D:/university/work/CH2_F_SEP/QUARTUS/output_files/CH2_F_SEP.pof ;
++--------------------+----------------------------------------------------------------------+
+; Option             ; Setting                                                              ;
++--------------------+----------------------------------------------------------------------+
+; Device             ; EPCS16                                                               ;
+; JTAG usercode      ; 0x00000000                                                           ;
+; Checksum           ; 0x187F8372                                                           ;
+; Compression Ratio  ; 3                                                                    ;
++--------------------+----------------------------------------------------------------------+
 
 
 +--------------------+
@@ -117,14 +117,14 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 32-bit Assembler
     Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
-    Info: Processing started: Mon Sep 26 22:37:08 2022
+    Info: Processing started: Tue Sep 27 09:38:20 2022
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off CH2_F_SEP -c CH2_F_SEP
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 32-bit Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 385 megabytes
-    Info: Processing ended: Mon Sep 26 22:37:10 2022
-    Info: Elapsed time: 00:00:02
-    Info: Total CPU time (on all processors): 00:00:02
+    Info: Peak virtual memory: 381 megabytes
+    Info: Processing ended: Tue Sep 27 09:38:26 2022
+    Info: Elapsed time: 00:00:06
+    Info: Total CPU time (on all processors): 00:00:07
 
 

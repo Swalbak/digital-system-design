@@ -10,7 +10,7 @@ output[3:0]Q;
 
 reg [3:0]Q;
 
-always @(negedge CLK)
+always @(posedge CLK)
 begin
 	if(Q[0]==1'b0)Q[0]=1'b1;
 	else Q[0]=1'b0;

@@ -55,4 +55,18 @@ set_global_assignment -name USE_CONFIGURATION_DEVICE ON
 set_global_assignment -name RESERVE_ALL_UNUSED_PINS "AS INPUT TRI-STATED"
 set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
 set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name RESERVE_ALL_UNUSED_PINS_NO_OUTPUT_GND "AS INPUT TRI-STATED"
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "3.3-V LVTTL"
+set_location_assignment PIN_V4 -to CLK
+set_location_assignment PIN_AE11 -to Q[2]
+set_location_assignment PIN_AE10 -to Q[1]
+set_location_assignment PIN_AF9 -to Q[0]
+set_location_assignment PIN_C5 -to RESETN
+set_location_assignment PIN_M3 -to SEG[6]
+set_location_assignment PIN_M2 -to SEG[5]
+set_location_assignment PIN_L7 -to SEG[4]
+set_location_assignment PIN_L6 -to SEG[3]
+set_location_assignment PIN_L4 -to SEG[2]
+set_location_assignment PIN_P6 -to SEG[1]
+set_location_assignment PIN_P4 -to SEG[0]
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
