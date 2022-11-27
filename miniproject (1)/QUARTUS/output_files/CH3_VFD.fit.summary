@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Nov 27 22:10:32 2022
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : CH3_VFD
+Top-level Entity Name : CH3_VFD
+Family : Cyclone II
+Device : EP2C70F672C8
+Timing Models : Final
+Total logic elements : 1,296 / 68,416 ( 2 % )
+    Total combinational functions : 1,285 / 68,416 ( 2 % )
+    Dedicated logic registers : 419 / 68,416 ( < 1 % )
+Total registers : 419
+Total pins : 22 / 422 ( 5 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,152,000 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 300 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
